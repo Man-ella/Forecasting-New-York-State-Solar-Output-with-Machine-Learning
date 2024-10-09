@@ -1,5 +1,6 @@
 # Forecasting-New-York-State-Solar-Output-with-Machine-Learning
 See project report in files above.
+
 Purpose:
 
 This project analyzes two decades of data from New York State's solar incentive program, quantifying the impact of diverse variables on expected residential solar output in the state
